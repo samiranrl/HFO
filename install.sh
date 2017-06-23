@@ -11,3 +11,4 @@ cd example/sarsa_offense/
 make
 cd ..
 cd ..
+sudo apt-get install python-numpy
