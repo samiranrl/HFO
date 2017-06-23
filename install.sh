@@ -1,4 +1,4 @@
-sudo apt-get install cmake libboost-filesystem-dev libboost-system-dev flex
+sdo apt-get install cmake libboost-filesystem-dev libboost-system-dev flex
 sudo apt-get install libpng-dev
 sudo apt-get install zlib1g-dev
 mkdir build && cd build
