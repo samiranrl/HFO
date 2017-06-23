@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/samiran/HFO/build/CMakeFiles/librcsc"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/CMakeFiles/librcsc.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/CMakeFiles/librcsc-complete.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-install.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-mkdir.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-download.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-update.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-patch.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-configure.rule"
+		},
+		{
+			"file" : "/home/samiran/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"librcsc"
+		],
+		"name" : "librcsc"
+	}
+}
