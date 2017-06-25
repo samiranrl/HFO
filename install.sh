@@ -9,6 +9,7 @@ sudo make install
 cd ..
 cd example/sarsa_offense/
 make
+mkdir weights_backup
 cd ..
 cd ..
 sudo apt-get install python-numpy
